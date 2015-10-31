@@ -1,0 +1,36 @@
+
+[
+  {
+    "key-english-1" : {
+      "defined" : "content",
+      "example" : [
+        "ex1 bla bla",
+        "ex2 bla bla",
+        "ex3 bla bla",
+        "ex4 bla bla"
+      ]
+    }
+  },
+  {
+    "key-english-2" : {
+      "defined" : "content",
+      "example" : [
+        "ex1 bla bla",
+        "ex2 bla bla",
+        "ex3 bla bla",
+        "ex4 bla bla"
+      ]
+    }
+  },
+  {
+    "key-english-3" : {
+      "defined" : "content",
+      "example" : [
+        "ex1 bla bla",
+        "ex2 bla bla",
+        "ex3 bla bla",
+        "ex4 bla bla"
+      ]
+    }
+  }
+]
